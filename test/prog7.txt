@@ -1,0 +1,35 @@
+class Program{
+	
+	int a, aa, arr[100000], b, c[10], d, e[20];
+	boolean co[100], jj;
+	void hhf()
+	{
+		int a;
+		boolean b;
+		int c, d;
+
+		ab += hf;
+		c = 1 + 2;
+		a(1*2, b%c);
+		if(h&&y)
+		{
+			int a;
+		}
+		else
+		{
+			int b;
+		}
+		for a=1/2, 5*6 
+		{
+			boolean c;
+		}
+		return a*b;
+		break;
+		continue;
+		{
+			int c;
+		}
+	}
+//	void hhf(){}
+//	int hiwf(int a, int b, boolean c){}
+}
